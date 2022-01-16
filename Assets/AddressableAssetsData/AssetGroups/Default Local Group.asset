@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: be95fccc83b6f4094ab577427dca365b
+  m_SerializeEntries:
+  - m_GUID: 5a7425c64eb3c4b8eb79b0fcbea29ecf
+    m_Address: Assets/Images/onepiece01_luffy2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OnePiece
+  - m_GUID: 5af0459c5fb86477fa946d6bcbb51685
+    m_Address: Assets/Images/onepiece02_zoro.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OnePiece
+  - m_GUID: 70a6d8bad9e39409c864e8e8e64ff589
+    m_Address: Assets/Images/onepiece03_nami.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OnePiece
+  - m_GUID: 7864a714ef978416a9b2c5dc71c29a5d
+    m_Address: Assets/Images/onepiece04_usopp_sogeking.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OnePiece
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b99f82a1872df47cca9b1a2026facc80, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: df7c525d813384796b23267c92835d99, type: 2}
+    - {fileID: 11400000, guid: 27ad508f0848b4971b3be3fed03c532e, type: 2}
